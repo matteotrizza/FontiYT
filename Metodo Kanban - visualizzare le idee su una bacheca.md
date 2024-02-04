@@ -1,8 +1,3 @@
----
-{"dg-publish":true,"permalink":"/you-tube/fonti-video/metodo-kanban-visualizzare-le-idee-su-una-bacheca/","dgHomeLink":false,"dgPassFrontmatter":false}
----
-
-
 ## Fonti
 - [https://chat.openai.com/](https://chat.openai.com/)
 - [https://kanbanize.com/it/kanban-risorse/iniziare/kanban](https://kanbanize.com/it/kanban-risorse/iniziare/kanban)
