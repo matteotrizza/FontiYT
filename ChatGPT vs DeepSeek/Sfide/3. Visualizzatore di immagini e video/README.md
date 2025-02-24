@@ -1,0 +1,5 @@
+# Visualizzatore di immagini e video
+Obiettivo: creare un leggero e veloce visualizzatore di immagini e video.
+
+Prompt utilizzato (che ricordo essere il medesimo per entrambi i chatbot):
+> Ciao, crea un programma in Python con un'interfaccia grafica che funga da visualizzatore di file video e immagini. L'utente deve essere in grado di scegliere da un popup di Esplora Risorse quale file aprire (ovviamente deve essere dell'estensione consentita) e poi visualizzarne il contenuto (se si tratta di un'immagine voglio unicamente i tasti zoom e il tasto chiudi, se si tratta di un video voglio i tasti play/pausa, volume, velocità di riproduzionene e chiudi). Inoltre, il programma deve presentarsi con una grafica moderna, coinvolgente e in linea con gli standard di oggi. Restituiscimi un codice Python che io possa copiare e incollare su Visual Studio Code e un comando da eseguire per installare tutte le librerie di cui ho bisogno (utilizzane quante e quali vuoi). Sei libero di scrivere quante righe vuoi, ma ottimizzazione, correttezza, grafica e chiarezza sono fondamentali.
