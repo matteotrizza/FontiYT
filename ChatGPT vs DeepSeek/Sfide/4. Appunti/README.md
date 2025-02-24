@@ -1,0 +1,5 @@
+# Appunti
+Obiettivo: creare un'app per prendere note in stile Obsidian ma estremamente semplificata
+
+Prompt utilizzato (che ricordo essere il medesimo per entrambi i chatbot):
+> Ciao, crea un programma in Python con un'interfaccia grafica per prendere note. Il funzionamento si basa su una serie di file .md creati nella stessa cartella in cui il codice è salvato, che vengono mostrati sotto forma di lista in un pannello a sinistra e che possono essere aperti e visualizzati in un piccolo editor markdown a destra, che ovviamente "converta" la sintassi markdown in testo formattato al momento della visualizzazione, un po' in stile Obsidian. Il programma deve presentarsi con una grafica moderna, coinvolgente e in linea con gli standard di oggi. Restituiscimi un codice Python che io possa copiare e incollare su Visual Studio Code e un comando da eseguire per installare tutte le librerie di cui ho bisogno (utilizzane quante e quali vuoi). Sei libero di scrivere quante righe vuoi, ma ottimizzazione, correttezza, grafica e chiarezza sono fondamentali.
